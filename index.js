@@ -1,8 +1,5 @@
-function greet() {
-<<<<<<< HEAD
+function greet2() {
   console.log("Hello from the main branch!");
 }
-=======
-  console.log("Hello from the local branch!");
-}
->>>>>>> c918791 (私達の修正)
+
+greet2();
